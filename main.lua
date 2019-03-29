@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
 -- main.lua
--- by Alex Diker and Art Work by Alice Kur
+-- by Alex Diker
 -----------------------------------------------------------------------------------------
 display.setStatusBar( display.HiddenStatusBar )
 
@@ -68,7 +68,7 @@ scoreText:setTextColor( 0, 0, 0, 10)
 
 --- add text
 
----local author = display.newText ( "Alex Diker & Alice Kur", 320, 100, display.contentWidth, display.contentHeight * 0.5, native.systemFontBold, 14 )
+---local author = display.newText ( "Alex Diker", 320, 100, display.contentWidth, display.contentHeight * 0.5, native.systemFontBold, 14 )
 ---    author:setFillColor( 0, 0, 0 )
 
 --- Make Coconut Bounce
