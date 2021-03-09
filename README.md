@@ -1,9 +1,8 @@
-# Corona2D-Game-CatchCoconuts
-not even close to finished yet :P just playing around with lua vs C#.
+# Game-CatchCoconuts
 
-Nothing might ever come of this, just really wanted to compare Corona vs Unity.for 2D games.
+LUA vs C#
 
+Nothing might ever come of this, just really wanted to compare Corona vs Unity for Mobile Game Development
 
-code in main.lua 
+Code in main.lua 
 
-more documentation coming soon.
